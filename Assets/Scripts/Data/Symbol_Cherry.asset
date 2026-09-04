@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60860345163e1bf438d7ffd0dc4a5fee, type: 3}
   m_Name: Symbol_Cherry
   m_EditorClassIdentifier: Assembly-CSharp::SymbolData
-  symbolId: 
+  symbolId: 'cherry '
   icon: {fileID: 0}
-  weight: 10
+  weight: 20
   payoutMultiplier: 2
